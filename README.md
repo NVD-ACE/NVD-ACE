@@ -39,15 +39,15 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NVD-ACE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVD-ACE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NVD-ACE&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -60,27 +60,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - 💡 Open to collaborating on **Open Source Projects**
 
 ---
-
-## 🌟 Featured Projects
-
-### 🚀 [Project Name 1](https://github.com/your-username/project-1)
-**Tech Stack:** React.js, Node.js, MongoDB, Express.js
-- Brief description of what the project does
-- Key features and technologies used
-- Live demo link (if available)
-
-### 💻 [Project Name 2](https://github.com/your-username/project-2)
-**Tech Stack:** Java, Spring Boot, PostgreSQL
-- Brief description of what the project does
-- Key features and technologies used
-- Live demo link (if available)
-
-### 🌐 [Project Name 3](https://github.com/your-username/project-3)
-**Tech Stack:** JavaScript, HTML5, CSS3
-- Brief description of what the project does
-- Key features and technologies used
-- Live demo link (if available)
-
 ---
 
 ## 🎯 Areas of Expertise
