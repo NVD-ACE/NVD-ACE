@@ -87,8 +87,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your Location",
+    name: "Nguyen Van Dung",
+    location: "Ha Noi",
     role: "Full Stack Developer",
     languages: ["JavaScript", "Java", "TypeScript", "HTML", "CSS"],
     frameworks: {
